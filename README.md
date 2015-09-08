@@ -1,3 +1,24 @@
+## sophus (jade) - 0.9.0-0
+
+The packages in the `sophus` repository were released into the `jade` distro by running `/usr/bin/bloom-release sophus --track jade --rosdistro jade --new-track` on `Tue, 08 Sep 2015 07:37:30 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.9.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## sophus (indigo) - 0.9.0-2
 
 The packages in the `sophus` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo sophus` on `Sun, 01 Feb 2015 16:15:47 -0000`
