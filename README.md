@@ -1,3 +1,26 @@
+## sophus (indigo) - 0.9.1-0
+
+The packages in the `sophus` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo sophus` on `Sun, 19 Jun 2016 05:47:09 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: https://github.com/yujinrobot-release/sophus-release.git
+- rosdistro version: `0.9.0-2`
+- old version: `0.9.0-2`
+- new version: `0.9.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.35`
+
+
 ## sophus (kinetic) - 0.9.0-1
 
 The packages in the `sophus` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic sophus` on `Sat, 23 Apr 2016 08:35:45 -0000`
