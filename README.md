@@ -1,3 +1,26 @@
+## sophus (melodic) - 1.0.1-0
+
+The packages in the `sophus` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic sophus` on `Sat, 12 May 2018 05:37:38 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## sophus (kinetic) - 0.9.1-0
 
 The packages in the `sophus` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic sophus` on `Sun, 19 Jun 2016 05:50:17 -0000`
