@@ -2,11 +2,17 @@
 
 C++ implementation of Lie Groups using Eigen. 
 
+### Branches
+
+* devel : ament compatible version of the development branch
+* catkin-devel : catkin compatible version of the development branch
+* release/0.9.1-kinetic : the kinetic released version 
+
 ### Packaging
 
-This is a maintained version of the original code developed by Hauke Strasdat.
+This is a development fork of the upstream repository maintained for the ROS community in order to maintain stability across ROS distros. Please send any non-release related issues or pull requests upstream. 
 
-The current release branch is *indigo*. Ros packages are available for indigo, jade & kinetic (built as a [3rdparty package](http://wiki.ros.org/bloom/Tutorials/ReleaseThirdParty)).
+This fork will have a release targeted at ros2 ardent and beyond.
 
 ### Installation - CMake
 
@@ -18,25 +24,13 @@ $ cmake ..
 $ make
 ```
 
-### Installation - ROS 3rd Party Package
-
-Install in a catkin workspace dedicated to 3rd party packages (usually you'll install this package on its own):
+### Installation - Ament
 
 ```
-$ mkdir -p ~/3rd_party_workspace/src
-$ cd ~/3rd_party_workspace/src
-$ wstool init .
-$ wstool set sophus --git https://github.com/stonier/sophus.git --version=indigo
-$ wstool update sophus
-$ cd ~/3rd_party_workspace
-$ catkin_make_isolated -DCMAKE_INSTALL_PREFIX=install_isolated --install
-$ source ~/3rd_party_workspace/install_isolated/setup.bash
+$ mkdir -p ~/sophus_ws/src
+$ cd ~/sophus_ws/src
+$ vcs import < https://github.com/stonier/sophus.git
+$ cd ~/sophus_ws
+$ ament build
 ```
-
-### Errata
-
-Thanks to Steven Lovegrove, Sophus is now fully templated  - using the Curiously Recurring Template Pattern (CRTP).
-
-(In order to go back to the non-templated/double-only version "git checkout a621ff".)
-
 
