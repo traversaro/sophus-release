@@ -1,3 +1,26 @@
+## sophus (bouncy) - 1.0.2-0
+
+The packages in the `sophus` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --track bouncy --rosdistro bouncy sophus` on `Thu, 27 Sep 2018 16:51:02 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## sophus (melodic) - 1.0.1-1
 
 The packages in the `sophus` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic sophus` on `Tue, 11 Sep 2018 18:13:13 -0000`
