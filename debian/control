@@ -1,0 +1,12 @@
+Source: ros-crystal-sophus
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), cmake, libeigen3-dev, ros-crystal-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-crystal-sophus
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-crystal-ros-workspace
+Description: C++ implementation of Lie Groups using Eigen.
