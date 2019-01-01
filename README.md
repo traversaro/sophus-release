@@ -1,3 +1,26 @@
+## sophus (crystal) - 1.0.2-0
+
+The packages in the `sophus` repository were released into the `crystal` distro by running `/usr/bin/bloom-release --track crystal --rosdistro crystal sophus` on `Tue, 01 Jan 2019 20:17:09 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## sophus (bouncy) - 1.0.2-0
 
 The packages in the `sophus` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --track bouncy --rosdistro bouncy sophus` on `Thu, 27 Sep 2018 16:51:02 -0000`
