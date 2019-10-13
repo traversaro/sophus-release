@@ -1,3 +1,26 @@
+## sophus (eloquent) - 1.0.3-1
+
+The packages in the `sophus` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --edit-track --track eloquent --rosdistro eloquent sophus` on `Sun, 13 Oct 2019 23:53:29 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.1-1`
+- new version: `1.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## sophus (eloquent) - 1.0.1-1
 
 The packages in the `sophus` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --edit-track --track eloquent --rosdistro eloquent sophus` on `Sun, 13 Oct 2019 23:50:34 -0000`
