@@ -1,3 +1,26 @@
+## sophus (noetic) - 1.2.0-1
+
+The packages in the `sophus` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --edit-track --track noetic --rosdistro noetic sophus` on `Thu, 16 Jul 2020 04:42:13 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: https://github.com/yujinrobot-release/sophus-release.git
+- rosdistro version: `1.1.0-1`
+- old version: `1.1.0-1`
+- new version: `1.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## sophus (noetic) - 1.1.0-1
 
 The packages in the `sophus` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --rosdistro noetic sophus` on `Sat, 06 Jun 2020 14:56:26 -0000`
