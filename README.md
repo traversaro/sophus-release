@@ -1,3 +1,26 @@
+## sophus (galactic) - 1.2.1-1
+
+The packages in the `sophus` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --track galactic --rosdistro galactic sophus` on `Thu, 26 May 2022 16:45:00 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## sophus (noetic) - 1.2.1-1
 
 The packages in the `sophus` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --rosdistro noetic sophus` on `Sun, 26 Jul 2020 04:14:58 -0000`
