@@ -1,3 +1,26 @@
+## sophus (humble) - 1.3.1-1
+
+The packages in the `sophus` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble sophus` on `Tue, 27 Sep 2022 04:03:36 -0000`
+
+The `sophus` package was released.
+
+Version of package(s) in repository `sophus`:
+
+- upstream repository: https://github.com/stonier/sophus.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.3.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## sophus (rolling) - 1.3.1-1
 
 The packages in the `sophus` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --edit-track --track rolling --rosdistro rolling sophus` on `Tue, 27 Sep 2022 04:01:29 -0000`
